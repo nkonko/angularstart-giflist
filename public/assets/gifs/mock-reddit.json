@@ -1,0 +1,26 @@
+{
+  "data": {
+    "children": [
+      {
+        "data": {
+          "author": "Demo local",
+          "name": "t3-local-flower",
+          "permalink": "/r/gifs/comments/local-flower/",
+          "title": "Video de prueba local (CC0)",
+          "thumbnail": "/assets/gifs/flower.jpg",
+          "url": "/assets/gifs/flower.mp4",
+          "num_comments": 0,
+          "preview": {
+            "reddit_video_preview": null
+          },
+          "secure_media": {
+            "reddit_video": null
+          },
+          "media": {
+            "reddit_video": null
+          }
+        }
+      }
+    ]
+  }
+}
